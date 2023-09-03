@@ -1,0 +1,165 @@
+body{
+    margin: 0px;
+}
+.nav_bar{
+    width: 100vw;
+    height: 60px;
+    background: #FFFFFF;
+    display: flex;
+}
+.logo_nav_bar{
+    padding-left: 100px;
+    margin: 7px;
+    display: inline-block;}
+
+.cconect{
+    margin: 0px;
+    padding-top: 17px;
+    padding-left: 6px;
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.suporte_nav_bar{
+    width: 100vw;
+    height: 60px;
+    background: #003366;
+
+}
+.background_homepage{
+    width: 100vw;
+    height: 586px;
+    background: #f6ebcc;
+    margin: 0px;
+    display: flex;
+    flex-grow: 1;
+
+}
+
+.texts{
+    color: black;   
+    display: flex;
+    padding-top: 21px;
+}
+
+.extensao{
+    margin: 0px;
+    padding-right: 25px;
+    padding-left: 400px;
+}
+.ic{
+    padding-right: 25px;
+    margin: 0px;
+}
+.monitoria{
+    padding-right: 25px;
+    margin: 0px;
+}
+.eventos{
+    padding-right: 25px;
+    margin: 0px;
+}
+.empjr{
+    padding-right: 25px;
+    margin: 0px;
+}
+.estagio{
+    padding-right: 25px;
+    margin: 0px;
+}
+.outros{
+    padding-right: 25px;
+    margin: 0px;
+}
+
+.noticias_recentes{
+    width: 70%;
+    margin: 0px;
+    float: left;
+    margin-top: 1.5%;
+    margin-left: 5%;
+}
+
+.noticias_antigas{
+    margin: 0px;
+    float: right;
+    width: 30%;
+    margin-top: 1.5%;
+}
+.ntc_rec{
+    margin: 0px;
+    text-align: left;
+}
+.ntc_ant{
+    margin: 0px;
+    text-align: left;
+    padding-bottom: 4%;
+}
+
+.img_ntc_1{
+    width: 24.5%;
+    height: 24.5%;
+    margin-top: 2%;
+    border: 3px solid rgb(24, 24, 29);
+
+}
+.prgf1{
+    padding-bottom: 4%;
+    text-align: justify;
+}
+.prgf2{
+    padding-bottom: 4%;
+    text-align: justify;
+}
+.prgf3{
+    padding-bottom: 4%;
+    text-align: justify;
+}
+.prgf4{
+    padding-bottom: 4%;
+    text-align: justify;
+}
+
+.informe_ntc{
+    width: 60%;
+    margin-left: 1%;
+    display: inline-block;
+}
+
+.informe_ntc2{
+    width: 60%;
+    margin-left: 1%;
+    display: inline-block;
+}
+
+.informe_ntc3{
+    width: 60%;
+    margin-left: 1%;
+    display: inline-block;
+}
+
+.texto_ntc{
+    margin: 0px;
+}
+
+
+a:visited {
+    color: black; 
+  }
+
+  
+a:hover {
+    color: rgb(93, 93, 255); 
+  }
+  
+.traço{
+    margin-top: 2%;
+    margin-right: 2%;
+    background-color: black;
+    width: 1.5px;
+    height: 550px;
+}
