@@ -32,7 +32,7 @@ body{
 }
 .background_homepage{
     width: 100vw;
-    height: 586px;
+    height: 618px;
     background: #f6ebcc;
     margin: 0px;
     display: flex;
@@ -162,4 +162,12 @@ a:hover {
     background-color: black;
     width: 1.5px;
     height: 550px;
+}
+
+.video{
+    width: 24.5%;
+    height: 24.5%;
+    margin-top: 2%;
+    border: 3px solid rgb(24, 24, 29);
+
 }
